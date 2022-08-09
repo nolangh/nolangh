@@ -1,4 +1,4 @@
 ## Please Hire Me :pray:
 # Top Projects
   ### React project - coin
- ###### excuse the mess
+ ###### excuse the mess, i'm still cleaning up and adding projects
