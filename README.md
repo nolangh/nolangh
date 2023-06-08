@@ -1,6 +1,6 @@
-## Please Hire Me :pray:
+# Please Hire Me :pray:
 
-# Current Top Project
+## Current Top Project
 
 ### React project - coin
 
