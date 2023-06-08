@@ -1,4 +1,4 @@
-<span style="color:gold;"> # Just a gold miner from Alaska who traded gold fever for code fever</span>
+# Just a gold miner from Alaska who traded gold fever for code fever
 
 ## Current Top Project
 
